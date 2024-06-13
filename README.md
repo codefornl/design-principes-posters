@@ -2,7 +2,7 @@
 
 Dit zijn de [Gov UK design principe](https://www.gov.uk/guidance/government-design-principles) posters [1]:
 
-![design-principle-all tumblr](https://github.com/codefornl/design-principes-posters/assets/1716809/914fc692-099c-4461-9867-ab6c6733b9a6)
+![design-principle-all tumblr](https://github.com/codefornl/design-principes-posters/assets/1716809/914fc692-099c-4461-9867-ab6c6733b9a6 | width=100)
 
 Zie voor de vertaling het [vertaling.txt](vertaling.txt) bestand in deze repository.
 
