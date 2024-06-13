@@ -1,5 +1,9 @@
 # design-principes-posters
 
+<style>
+  img { border: 20px solid white; box-shadow: 0 4px 4px #666 }
+</style>
+
 Dit zijn de [Gov UK design principe](https://www.gov.uk/guidance/government-design-principles) posters [1]:
 
 <img src="https://github.com/codefornl/design-principes-posters/assets/1716809/914fc692-099c-4461-9867-ab6c6733b9a6" width="400px">
