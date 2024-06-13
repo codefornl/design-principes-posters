@@ -4,7 +4,7 @@ Dit zijn de [Gov UK design principe](https://www.gov.uk/guidance/government-desi
 
 ![design-principle-all tumblr](https://github.com/codefornl/design-principes-posters/assets/1716809/914fc692-099c-4461-9867-ab6c6733b9a6)
 
-Zie voor de vertaling het vertaalbestand in deze repository.
+Zie voor de vertaling het [vertaling.txt](vertaling.txt) bestand in deze repository.
 
 We willen deze posters overnemen in het Nederlands en in Code for NL stijl, bijvoorbeeld zoiets:
 
