@@ -10,7 +10,7 @@ Zie voor de vertaling het [vertaling.txt](vertaling.txt) bestand in deze reposit
 
 We willen deze posters overnemen in het Nederlands en in Code for NL stijl:
 
-<kbd><img src="https://github.com/codefornl/design-principes-posters/blob/main/IMG_20240627_140536~2.jpg?raw=true" width="400px"></kbd>
+<kbd><img src="https://github.com/codefornl/design-principes-posters/blob/main/IMG_20240627_140536.jpg?raw=true" width="400px"></kbd>
 
 Bijvoorbeeld zoiets:
 
