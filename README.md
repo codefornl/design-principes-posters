@@ -10,7 +10,7 @@ Dit zijn de [Gov UK design principe](https://www.gov.uk/guidance/government-desi
 
 Zie voor de vertaling het [vertaling.txt](vertaling.txt) bestand in deze repository.
 
-We willen deze posters overnemen in het Nederlands en in Code for NL stijl:
+We willen deze posters overnemen in het Nederlands en in <a href="https://www.codefor.nl">Code for NL stijl</a>:
 
 <kbd><img src="https://github.com/codefornl/design-principes-posters/blob/main/IMG_20240627_140536.jpg?raw=true" width="400px"></kbd>
 
