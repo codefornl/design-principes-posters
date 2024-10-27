@@ -1,6 +1,8 @@
 # design-principes-posters
 
-WIE WIL HELPEN?!
+Hulp gevraagd: wie kan onderstaande posters uitwerken in SVG?
+
+## Achtergrond
 
 Dit zijn de [Gov UK design principe](https://www.gov.uk/guidance/government-design-principles) posters [1]:
 
